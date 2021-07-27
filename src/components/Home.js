@@ -20,7 +20,7 @@ function Home() {
           <img src="assets/logo.png" alt="" />
         </Logo>
         <NavMenu>
-          <Link>TV Shows</a>
+          <Link>TV Shows</Link>
           <Link style={{ marginLeft: "50px" }}>Movies</Link>
           <Link style={{ marginLeft: "50px" }}>Recently Added</Link>
           <Link style={{ marginLeft: "50px" }}>My List</Link>
