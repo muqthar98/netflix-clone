@@ -16,13 +16,6 @@ function SignIn({history}) {
     setLogin({ ...login, [e.target.name]: e.target.value });
   };
 
-  /*const signin = async () => {
-    const response = await logIn(login);
-    if (response === login) {
-      console.log("user is loggedin successfully");
-    }
-  };*/
-
   return (
     <Container>
       <Nav>
